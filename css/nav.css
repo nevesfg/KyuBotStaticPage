@@ -103,7 +103,7 @@ nav {
 }
 
 /* Media screens selectors */
-@media (max-width: 768px) {
+@media (max-width: 920px) {
   .nav-menu {
     /* display: none; */
     position: fixed;
